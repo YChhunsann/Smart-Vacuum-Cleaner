@@ -6,5 +6,3 @@ Here is the video to demo version 1.0 of my project.
 
 
 === Final Project finished at December 7, 2023
-
-hello , it's got hack
